@@ -1,2 +1,2 @@
-# Biom-dica
+# Biomedica
 Proyectos: Programación para Biomédica.
